@@ -1,7 +1,6 @@
 package info.moviepedia.portfolio.member.domain;
 
 import lombok.Getter;
-import lombok.RequiredArgsConstructor;
 import lombok.Setter;
 import lombok.ToString;
 
